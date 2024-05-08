@@ -1,0 +1,78 @@
+[
+    {
+        "nombre": "Juan Perez",
+        "especialidad": "cortes modernos",
+        "experiencia": "8 años",
+        "correo": "juanperez@gmail.com",
+        "contacto": "320501245"
+    },
+    {
+        "nombre": "Luisa Fernanda Mesa",
+        "especialidad": "coloración avanzada",
+        "experiencia": "5 años",
+        "correo": "luisafernanda@gmail.com",
+        "contacto": "3158041236"
+    },
+    {
+        "nombre": "Carlos Martínez",
+        "especialidad": "barbería clásica",
+        "experiencia": "10 años",
+        "correo": "carlosmartinez@gmail.com",
+        "contacto": "3004567891"
+    },
+    {
+        "nombre": "Sofía Giraldo",
+        "especialidad": "peinados y maquillaje",
+        "experiencia": "3 años",
+        "correo": "sofiagiraldo@gmail.com",
+        "contacto": "3189024567"
+    },
+    {
+        "nombre": "Andrés Felipe Torres",
+        "especialidad": "tratamientos capilares",
+        "experiencia": "7 años",
+        "correo": "andresfelipe@gmail.com",
+        "contacto": "3225046789"
+    },
+    {
+        "nombre": "Diana Carolina Tobon",
+        "especialidad": "extensiones y volumen",
+        "experiencia": "4 años",
+        "correo": "dianacarolina@gmail.com",
+        "contacto": "3105678901"
+    },
+    {
+        "nombre": "Miguel Ángel Lozano",
+        "especialidad": "afeitado clásico",
+        "experiencia": "6 años",
+        "correo": "miguelangel@gmail.com",
+        "contacto": "3216549870"
+    },
+    {
+        "nombre": "Jorge Eduardo Casas",
+        "especialidad": "cortes de precisión",
+        "experiencia": "9 años",
+        "correo": "jorgeeduardo@gmail.com",
+        "contacto": "3158974563"
+    },
+    {
+        "nombre": "Felipe Andrés Gómez",
+        "especialidad": "diseños y figuras",
+        "experiencia": "5 años",
+        "correo": "felipeandres@gmail.com",
+        "contacto": "3187654321"
+    },
+    {
+        "nombre": "Farid Garcia",
+        "especialidad": "cortes clasicos",
+        "experiencia": "15 años",
+        "correo": "graciasfarid@gmail.com",
+        "contacto": "3187845625"
+    }
+]
+    
+
+
+
+
+
